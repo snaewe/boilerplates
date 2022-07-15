@@ -1,3 +1,7 @@
+# About this fork
+
+This fork has been created to try the Vagrant examples using Virtualbox as the VM provider.
+
 # Boilerplates for Automation and Deployment
 
 These are my templates and configurations I use in various projects and deployment scenarios. They are based on automation and deployment tools such as Ansible, Docker, Terraform, and much more.
